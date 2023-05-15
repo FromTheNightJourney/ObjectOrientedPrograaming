@@ -1,0 +1,38 @@
+1. 
+a.) A class can be defined as the template to create objects, or the base foundation, the blueprints that define the properties and behaviors that the class would exhibit. An instantation of a class is when the said object is created. Using the given information as an example, we could say that a class is the salary of the sales personnel. THe instance would be the details of said sales personnel being filled, like name, age, gender, and so on.
+
+b.) In Object-Oriented Programming, "Inheritance" allows classes to inherit any behaviors and attributes from the other classes. For example,a base class can be created called "Employee", since everyone working under the company is an employee. Then, we can have more sub-classes for the working hierarchy, like manager, sales personnel, and other jobs.
+
+Another example would be for the products, having a main class called "Product" that simply has a price or another common attribute. Then, we can derive it into a varying number of product types.
+
+c.) Libraries are simply shortcuts that contain collections of pre-built code that programmers can use instead of having to code everything from scratch. The reason the administration program can use them is that they can save am abundance of time and space, since they also give an amazing amount of features. Managing a database is simpler, especially since the re-usage of code is greatly encouraged. There is also a community of programmers that would gladly offer support in the case of any complications. No need to reinvent the wheel when it works perfectly.
+
+2.
+a.) coding problem
+
+b.) The reason for this is to ensure that the SalesPerson class remains private, and cannot be accessed outside of the class.
+
+c.) 
+i.) included in the github.
+
+ii.) If there is an input error, there will be no way to fix it.
+
+d.) My output is as follows:
+
+102
+
+2
+
+2550.4
+
+5000.0
+
+e.) coding problem
+
+f.) ""
+
+g.) ""
+
+h.) A getter and setter function in the SalesPerson class for the date would be a welcome improvement.
+
+i.) There is no inheritance, and in the absence of such, overriding is not present either. In the case of overloading, there are two constructors in the SalesPerson class.
